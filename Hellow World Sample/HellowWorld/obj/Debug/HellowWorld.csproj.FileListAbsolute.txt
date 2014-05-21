@@ -1,0 +1,6 @@
+C:\CCTB145\Projects\Hellow World Sample\HellowWorld\bin\Debug\HellowWorld.exe.config
+C:\CCTB145\Projects\Hellow World Sample\HellowWorld\bin\Debug\HellowWorld.exe
+C:\CCTB145\Projects\Hellow World Sample\HellowWorld\bin\Debug\HellowWorld.pdb
+C:\CCTB145\Projects\Hellow World Sample\HellowWorld\obj\Debug\HellowWorld.csprojResolveAssemblyReference.cache
+C:\CCTB145\Projects\Hellow World Sample\HellowWorld\obj\Debug\HellowWorld.exe
+C:\CCTB145\Projects\Hellow World Sample\HellowWorld\obj\Debug\HellowWorld.pdb
