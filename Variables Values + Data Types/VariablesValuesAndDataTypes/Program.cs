@@ -61,7 +61,34 @@ namespace VariablesValuesAndDataTypes
             Console.WriteLine(" ");
 
 
-            //Variables of various data types, with valules
+            //Variables of various data types, with values
+            string sentence = "A string can hold many characters.";
+            string empty = ""; //A string can be empty (zero characters)
+            string nothing = null; //A string can be null (not the same as empty)
+
+            bool booleanVariable = true; //Booleans can only hold values of true or false
+            //Please note that true is not the same as 'true'
+            //                \bool/                  \string/
+
+            //Variable names are decided by you when the variable is declared
+            //Like everything else in C#, variable names are case sensitive...
+            int number = 25;
+            int Number = 15;
+            int NUMbER = 10;
+            //All the above are DIFFERENT variables.
+
+            //Play with boolean expressions and teh logical operators
+            int highNumber = 100;
+            int lowNumber = 2;
+
+            bool highIsBiggerThanLow = highNumber > lowNumber;
+            //                         \relational expression/
+            //                          \  true or false?   /
+            bool highIsBiggerThan50 = highNumber > 50;
+            bool highIs100 = highNumber == 100;
+
+            bool highIsBiggerThanLowAndBiggerThan50;
+            highIsBiggerThanLowAndBiggerThan50 = highIsBiggerThanLow && highIsBiggerThan50;
 
 
         }
