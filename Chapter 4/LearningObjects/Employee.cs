@@ -45,5 +45,10 @@ namespace LearningObjects
             Salary += Salary * increasePercentage;
             //Exactly the same as Salary = Salary + (Salary * increasePercentage)
         }
+
+        public override string ToString()
+        {
+            return Name + " earns $" + Salary + " and started on " + StartingDate.ToShortDateString();
+        }
     }
 }
